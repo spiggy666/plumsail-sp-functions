@@ -4,7 +4,7 @@
     "title": "SharePoint Azure Functions",
     "version": "1.0.0"
   },
-  "host": "spfunction.azurewebsites.net",
+  "host": "https://sharepointfunctionpco.azurewebsites.net",
   "basePath": "/",
   "schemes": [
     "https",
