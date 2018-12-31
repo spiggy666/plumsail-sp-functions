@@ -14,8 +14,8 @@
     "/api/CreateFolder": {
       "post": {
         "description": "Creates SharePoint sub folder in a folder.",
-        "summary": "Create Folder",
-        "operationId": "Create Folder",
+        "summary": "CreateFolder",
+        "operationId": "CreateFolder",
         "produces": [],
         "consumes": [],
         "parameters": [
